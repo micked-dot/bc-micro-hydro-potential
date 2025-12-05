@@ -1,0 +1,9 @@
+streamlit
+pystac-client
+rasterio
+shapely
+numpy
+matplotlib
+geopandas
+fiona
+contextily
