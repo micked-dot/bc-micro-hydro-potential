@@ -154,7 +154,7 @@ if run_analysis:
                     window_transform = rasterio.windows.transform(window, src.transform)
 
                     # ============================================================================
-                    # CREATE TWO VISUALIZATIONS
+                    # CREATE VISUALIZATIONS
                     # ============================================================================
                     
                     # Calculate extent for imshow
